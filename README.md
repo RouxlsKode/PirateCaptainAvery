@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PirateCaptainAvery  (they/them)
+- 👋 Hi, I’m Avery  (they/them)
 - 👀 I’m interested in Linux and Vidiogame design
 - 🌱 I’m currently learning Python & C#
 - 💞️ I’m looking to collaborate on nothing specific as of yet
